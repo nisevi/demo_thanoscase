@@ -42,7 +42,6 @@ jobs:
     steps:
       - checkout
       - cached-bundle
-      - database-setup
       - rspec-tests
 
 workflows:
