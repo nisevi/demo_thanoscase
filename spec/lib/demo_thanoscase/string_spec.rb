@@ -1,4 +1,6 @@
-require_relative '../../../lib/demo_thanoscase/string'
+# frozen_string_literal: true
+
+require_relative "../../../lib/demo_thanoscase/string"
 
 RSpec.describe "String class" do
   it "should shorten an even string to half its size" do

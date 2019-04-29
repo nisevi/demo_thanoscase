@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    demo_thanoscase (0.0.1)
+    demo_thanoscase (0.0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -29,4 +29,4 @@ DEPENDENCIES
   rspec (~> 3.8)
 
 BUNDLED WITH
-   1.16.3
+   1.17.3
